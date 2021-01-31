@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello everybody, I'm Maud 👋
 
 <!--
-**Maud-Pixel/Maud-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Maud-Pixel/Maud-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# I'm a .Net developer and a student web developer
+Here are some informations about my work 
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on :
+--------------------------------
+  Web dev projects & CRM/ERP
+  
+🌱 I’m currently deepening :
+---------------------------------
+  **Javascript**, **Python** et at first **ReactJs**
+  
+👯 I’m looking to collaborate on :
+----------------------------------
+    Team project.  It's my first objective : a 
+    good collaborate at work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 Ask me about : anything 
+------------------
+📫 How to reach me: 
+------------------
+    linkdn, gmail
+    
+😄 Pronouns: She, her
+-----------
+⚡ Fun fact:
+------------
+I love hackathon and all fun 
+competitions ! So if you need a teamplayer, I'll be there.
+
