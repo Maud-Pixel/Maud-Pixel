@@ -27,7 +27,7 @@ Here are some informations about my work                                        
 👯 I’m looking to collaborate on :
 ----------------------------------
    Team project.  It's my first objective : a 
-   good collaborate at work
+   good collaboration at work
 
  💬 Languages
 ------------------
