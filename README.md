@@ -6,7 +6,7 @@
 # a student web developer
 ______________________________
 
-Here are some informations about my work                                         <img align="left" src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/stockage-informatique.png" width="200">
+Here are some informations about my work                                         <img align="right" src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/stockage-informatique.png" width="200">
 
  🔭 I’m currently working on :
 --------------------------------
