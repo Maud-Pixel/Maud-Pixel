@@ -2,8 +2,11 @@
 
 <!--
 **Maud-Pixel/Maud-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# I'm a .Net developer and a student web developer
-Here are some informations about my work 
+# I'm a .Net developer &
+# a student web developer
+______________________________
+
+Here are some informations about my work       <img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/stockage-informatique.png" width="100">
 
  🔭 I’m currently working on :
 --------------------------------
