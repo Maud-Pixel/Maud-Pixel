@@ -1,9 +1,11 @@
+<header backrgound-color="#BBDFC8">
 ### Hello everybody, I'm Maud 👋
 
 <!--
 **Maud-Pixel/Maud-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # I'm a .Net developer & a student web developer
 ______________________________
+</header>
 
 Here are some informations about my work                                         <img align="right" src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/stockage-informatique.png" width="250">
 
