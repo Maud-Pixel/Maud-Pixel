@@ -1,11 +1,11 @@
-<header background-color="#b4ffff">
+<div style="background-color: #b4ffff;">
 ### Hello everybody, I'm Maud 👋
 
 <!--
 **Maud-Pixel/Maud-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # I'm a .Net developer & a student web developer
 ______________________________
-</header>
+</div>
 
 Here are some informations about my work                                         <img align="right" src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/stockage-informatique.png" width="250">
 
