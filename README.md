@@ -8,6 +8,13 @@ Here are some informations about my work
  🔭 I’m currently working on :
 --------------------------------
   Web dev projects & CRM/ERP
+  Odoo 
+  
+  🧰 I would like show this projects :
+ -------------------------------------
+ - [Codepen Stuff](https://codepen.io/maud-leleux)
+ - [Wordpress project] (http://malabas.byethost7.com/)
+ - [Php chat]( https://guarded-plains-37375.herokuapp.com/)
   
 🌱 I’m currently deepening :
 ---------------------------------
@@ -22,8 +29,8 @@ Here are some informations about my work
 ------------------
 📫 How to reach me: 
 ------------------
-    linkdn, gmail
-    
+    linkdn
+
 😄 Pronouns: She, her
 -----------
 ⚡ Fun fact:
