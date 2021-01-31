@@ -13,7 +13,7 @@ Here are some informations about my work
   🧰 I would like show this projects :
  -------------------------------------
  - [Codepen Stuff](https://codepen.io/maud-leleux)
- - [Wordpress project] (http://malabas.byethost7.com/)
+ - [Wordpress project](http://malabas.byethost7.com/)
  - [Php chat]( https://guarded-plains-37375.herokuapp.com/)
   
 🌱 I’m currently deepening :
@@ -29,7 +29,7 @@ Here are some informations about my work
 ------------------
 📫 How to reach me 
 ------------------
-    Format: ![alt text](https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/linkedin.png)
+    Format:![alt text](https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/linkedin.png)
 
 😄 Pronouns: She, her
 -----------
