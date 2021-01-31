@@ -30,7 +30,7 @@ Here are some informations about my work                                        
 
  💬 Languages
 ------------------
-<img src="https://github.com/Maud-Pixel/Maud-Pixel/blob/master/images/logoHtml.jpeg" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/logoSass.png" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/logoJS.png" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/664-6644509_icon-react-js-logo-hd-png-download.png" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/logoCNet.png" width="50"> <img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/language-logo-python-44976.png" width="50">
+<img src="https://github.com/Maud-Pixel/Maud-Pixel/blob/master/images/logoHtml.jpeg" width="100"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/logoSass.png" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/logoJS.png" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/664-6644509_icon-react-js-logo-hd-png-download.png" width="50"><img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/logoCNet.png" width="100"> <img src="https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/language-logo-python-44976.png" width="50">
 
 📫 How to reach me 
 ------------------
