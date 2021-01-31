@@ -22,7 +22,7 @@ Here are some informations about my work                                        
   
 🌱 I’m currently deepening :
 ---------------------------------
-  **Javascript**, **Python** et at first **ReactJs**
+  **Javascript**, **Python** end at first **ReactJs**
   
 👯 I’m looking to collaborate on :
 ----------------------------------
