@@ -1,4 +1,4 @@
-<header .bg-yellow-light>
+<header background-color="#b4ffff">
 ### Hello everybody, I'm Maud 👋
 
 <!--
