@@ -1,4 +1,4 @@
-<header backrgound-color="#BBDFC8">
+<header background-color="#BBDFC8">
 ### Hello everybody, I'm Maud 👋
 
 <!--
