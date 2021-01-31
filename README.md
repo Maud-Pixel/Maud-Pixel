@@ -29,7 +29,7 @@ Here are some informations about my work
 ------------------
 📫 How to reach me 
 ------------------
-  ![alt text](https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/linkedin.png)
+  ![alt text](https://raw.githubusercontent.com/Maud-Pixel/Maud-Pixel/master/images/linkedin.png =50*50)
 
 😄 Pronouns: She, her
 -----------
