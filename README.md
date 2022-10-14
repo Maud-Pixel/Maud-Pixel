@@ -3,7 +3,7 @@
 
 <!--
 **Maud-Pixel/Maud-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# I'm a .Net developer & a student web developer
+# I'm an Odoo developer 
 ______________________________
 
 
